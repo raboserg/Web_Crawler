@@ -1,0 +1,5 @@
+/main.exe
+/Debug
+*.dll
+*.pdb
+*.ilk
